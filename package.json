@@ -1,7 +1,7 @@
 {
   "name": "ecommerce-json-server",
   "version": "1.0.0",
-  "description": "Mock API for ecommerce-app",
+  "description": "Mock API for ecommerce app",
   "scripts": {
     "start": "json-server --host 0.0.0.0 --watch db.json --port $PORT"
   },
